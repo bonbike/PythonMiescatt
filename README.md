@@ -1,0 +1,2 @@
+# PythonMiescatt
+Mie散乱のもろもろの計算をPythonで動かしたい
